@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 checking
 change1
+=======
+checking
+bugfixghdhg
+>>>>>>> bugfix
