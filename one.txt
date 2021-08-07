@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+learning git
+created a new branch
+=======
 git commands
+>>>>>>> master
